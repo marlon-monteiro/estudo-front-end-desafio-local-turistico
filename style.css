@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+#page {
+    /* box-sizing: border-box; */
+    margin: 88px 80px 130px
+}
+
+main {
+    width: 1120px;
+    height: 3061px;
+}
+
+
+#description-image {
+    margin: 40px 0px;
+}
+
+#content-list {
+    margin: 0px 0px 80px 0px;
+}
+
+#description-final {
+    margin: 0px 0px 58px 0px;
+}
+
+.title-list {
+    margin: 64px 0px;
+}
+
+.card-travel-2 {
+    margin: 48px 0px;
+}
+
+.content-card {
+    margin-top: 20px;
+}
+
+p.content-card {
+    margin-top: 4px;
+}
+
+
+.subtitulo {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.tag {
+    margin-left: 30px;
+}
+
+.tag-historia {
+    color: #0C51A7;
+}
+
+.tag-casais {
+    color: #591B98;
+}
+
+.tag-familia {
+    color: #E5245E;
+}
+
+.tag-orcamento {
+   color: #E1624F;
+}
+
+.bom-para {
+    color: #333333;
+    font-size: 16px;
+    margin-bottom: 0px;
+ }
+
+ .bold {
+    font-weight: bold;
+ }
+
+ .lista-destino {
+    font-size: 28px;
+    margin-left: 30px;
+ }
+
+ h1 {
+    font-size: 36px;
+    margin-top: 8px;
+ }
+
+ h2 {
+    font-size: 32px;
+    margin-top: 2px;
+    margin-bottom: 8px;
+ }
+
+ h3 {
+    margin: 0px
+ }
+
+ .p-1 {
+    text-align: center;
+ }
+
+ p {
+    font-size: 16px;
+    margin-top: 8px;
+ }
+
+.list-ol {
+    padding: 0px;
+}
+
+ .fim {
+    text-align: center;
+ }
+
+ footer {
+    font-family: "Alice", serif;
+    text-align: center;
+ }
+
+ .coracao-fim {
+    vertical-align: middle
+ }
+
+
